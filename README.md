@@ -1,4 +1,4 @@
-### Hi there 👋
+### Innovating at the nexus of Software, Space, and Medicine
 
 <!--
 **Astrobiomedical/astrobiomedical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
