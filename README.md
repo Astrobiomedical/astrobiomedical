@@ -11,7 +11,7 @@ ___
 ### 🌱 I’m currently learning Amazon Web Services (AWS) Cloud Computing
 
 ### 🔭 By day, I develop and optimize data pipelines for several flagship space missions - getting scientists and app developers the  data they need, when they need it, how they need it - as efficiently as possible.
-### By night, I teach an introductory Python course and am an active Society of Women Engineers (SWE)
+### By night, I teach an introductory Python course and am an active Society of Women Engineers (SWE) member
 ### On the weekends, I'm exploring new technologies, particularly hardware-software integration. Currently building a smart mirror and personal assistant using a Raspberry Pi in a scrum agile team, where I serve as the Product Owner!
 
 ### 💬 Ask me about Python programming, Space Medicine, and being first-gen in tech
