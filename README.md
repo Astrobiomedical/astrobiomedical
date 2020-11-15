@@ -1,4 +1,4 @@
-## Innovating at the nexus of Software, Space, and Human Potential
+## Innovating at the nexus of Software, Space, and Human Impact
 
 ### **Software Developer** and **Physicist** with experience spanning space mission operations, computational predictive analytics, biophysics, accessibility, fostering entrepreneurial mindset in teams, and more.
 
